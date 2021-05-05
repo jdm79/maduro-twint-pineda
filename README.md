@@ -18,3 +18,9 @@ Pip:
 ```
 pip3 install twint
 ```
+
+# How to run this script
+
+```
+python3 app.py
+```
