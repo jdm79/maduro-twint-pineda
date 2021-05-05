@@ -4,7 +4,7 @@
 
 ## How to install Twint:
 
-Git:
+Git (Prefered):
 ```
 git clone https://github.com/twintproject/twint.git
 cd twint
@@ -12,6 +12,7 @@ pip3 install . -r requirements.txt
 ```
 
 # OR
+
 
 Pip:
 ```
